@@ -1,0 +1,5 @@
+# meta.json is local-only — commit meta.dat instead
+content/*/*/meta.json
+
+# draft folder is staging only
+draft/

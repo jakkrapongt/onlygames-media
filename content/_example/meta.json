@@ -1,0 +1,14 @@
+{
+  "id": "item-id-matching-folder-name",
+  "title": "Item Title",
+  "shortDescription": "One-line description for card display",
+  "description": "Longer description for the detail page. Should be SEO-friendly, 1-3 sentences.",
+  "emoji": "🎵",
+  "color": "#3b82f6",
+  "files": [
+    { "name": "main-file.mp3", "format": "MP3", "size": "1.5 MB" }
+  ],
+  "license": "Public Domain",
+  "keywords": ["keyword1", "keyword2"],
+  "status": "ready"
+}

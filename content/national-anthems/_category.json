@@ -1,0 +1,34 @@
+{
+  "id": "national-anthems",
+  "title": "National Anthems",
+  "emoji": "🏳️",
+  "color": "#1e3a5f",
+  "template": "national-anthems",
+  "itemPath": "/national-anthems/",
+  "description": "Instrumental national anthem MP3s with lyrics for every country. Public domain, free for video, YouTube, and educational use.",
+  "requiredFiles": ["meta.json", "anthem.mp3"],
+  "metaSchema": {
+    "id": "ISO 3166-1 alpha-2 country code, lowercase (e.g. 'us', 'th', 'jp')",
+    "title": "Anthem title in original romanized form (e.g. 'The Star-Spangled Banner')",
+    "country": "Country name in English",
+    "duration": "Duration in seconds (integer)",
+    "locale": "Anthem title in native script, if different from title (optional)",
+    "lyrics": "Full lyrics in native language (optional)",
+    "lyricsRomanization": "Romanized lyrics, if native is non-Latin (optional)",
+    "lyricsEnglish": "English translation of lyrics (optional)",
+    "license": "License type (e.g. 'Public Domain')",
+    "source": "Source of the audio file"
+  },
+  "metaExample": {
+    "id": "th",
+    "title": "Phleng Chat Thai",
+    "country": "Thailand",
+    "duration": 44,
+    "locale": "เพลงชาติไทย",
+    "lyrics": "ประเทศไทยรวมเลือดเนื้อชาติเชื้อไทย\nเป็นประชารัฐไผทของไทยทุกส่วน...",
+    "lyricsRomanization": "Pra thet thai ruam luead nu'a chat chu'a thai...",
+    "lyricsEnglish": "Thailand embraces in its bosom all people of Thai blood...",
+    "license": "Public Domain",
+    "source": "Wikimedia Commons"
+  }
+}
