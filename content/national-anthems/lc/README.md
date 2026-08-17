@@ -1,4 +1,8 @@
-# Saint Lucia National Anthem
+# Saint Lucia
+
+![Saint Lucia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/eb3zFCeoyeE/0.jpg)](https://www.youtube.com/watch?v=eb3zFCeoyeE)
 
 **National Anthem of Saint Lucia**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:43 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=eb3zFCeoyeE) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/lc/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/lc/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

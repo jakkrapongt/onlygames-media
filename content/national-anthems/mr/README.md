@@ -1,13 +1,18 @@
-# Mauritania National Anthem
+# Mauritania
 
-**National Anthem of Mauritania** — النشيد الوطني الموريتاني
+![Mauritania](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/aMrdM6Dsm7E/0.jpg)](https://www.youtube.com/watch?v=aMrdM6Dsm7E)
+
+**National Anthem of Mauritania** — *النشيد الوطني الموريتاني*
 
 | | |
 |---|---|
 | Duration | 1:27 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=aMrdM6Dsm7E) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/mr/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/mr/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

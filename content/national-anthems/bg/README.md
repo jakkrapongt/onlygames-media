@@ -1,13 +1,18 @@
-# Bulgaria National Anthem
+# Bulgaria
 
-**National Anthem of Bulgaria** — Мила Родино
+![Bulgaria](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/IAzgAdxQz40/0.jpg)](https://www.youtube.com/watch?v=IAzgAdxQz40)
+
+**National Anthem of Bulgaria** — *Мила Родино*
 
 | | |
 |---|---|
 | Duration | 2:01 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=IAzgAdxQz40) |
+| Translations | TH · JA · ZH · RU · FR · ES · AR · EN |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/bg/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/bg/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

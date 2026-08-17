@@ -1,4 +1,8 @@
-# Aruba National Anthem
+# Aruba
+
+![Aruba](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/UGfMsf3OkHI/0.jpg)](https://www.youtube.com/watch?v=UGfMsf3OkHI)
 
 **National Anthem of Aruba**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 2:07 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=UGfMsf3OkHI) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/aw/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/aw/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

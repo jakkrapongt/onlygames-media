@@ -1,13 +1,18 @@
-# Afghanistan National Anthem
+# Afghanistan
 
-**National Anthem of Afghanistan** — دا د باتورانو کور
+![Afghanistan](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/g0OxzzKMiX8/0.jpg)](https://www.youtube.com/watch?v=g0OxzzKMiX8)
+
+**National Anthem of Afghanistan** — *دا د باتورانو کور*
 
 | | |
 |---|---|
 | Duration | 1:10 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=g0OxzzKMiX8) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/af/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/af/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

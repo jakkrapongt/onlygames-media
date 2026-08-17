@@ -1,13 +1,18 @@
-# Azerbaijan National Anthem
+# Azerbaijan
 
-**National Anthem of Azerbaijan** — Azərbaycan Respublikasının Dövlət himni
+![Azerbaijan](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/Ob4H7HKoM8k/0.jpg)](https://www.youtube.com/watch?v=Ob4H7HKoM8k)
+
+**National Anthem of Azerbaijan** — *Azərbaycan Respublikasının Dövlət himni*
 
 | | |
 |---|---|
 | Duration | 2:12 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=Ob4H7HKoM8k) |
+| Translations | TH · JA · ZH · RU · FR · ES · AR · EN |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/az/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/az/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

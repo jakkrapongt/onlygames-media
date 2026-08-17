@@ -1,13 +1,18 @@
-# Brunei Darussalam National Anthem
+# Brunei Darussalam
 
-**National Anthem of Brunei Darussalam** — ﷲ ڤليهاراکن سلطان
+![Brunei Darussalam](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/Ncfw7DWImLI/0.jpg)](https://www.youtube.com/watch?v=Ncfw7DWImLI)
+
+**National Anthem of Brunei Darussalam** — *ﷲ ڤليهاراکن سلطان*
 
 | | |
 |---|---|
 | Duration | 1:05 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=Ncfw7DWImLI) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/bn/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/bn/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

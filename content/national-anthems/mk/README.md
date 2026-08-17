@@ -1,13 +1,18 @@
-# North Macedonia National Anthem
+# North Macedonia
 
-**National Anthem of North Macedonia** — Денес над Македонија
+![North Macedonia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/CuWaLQmUsHo/0.jpg)](https://www.youtube.com/watch?v=CuWaLQmUsHo)
+
+**National Anthem of North Macedonia** — *Денес над Македонија*
 
 | | |
 |---|---|
 | Duration | 0:50 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=CuWaLQmUsHo) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/mk/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/mk/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

@@ -1,13 +1,18 @@
-# Israel National Anthem
+# Israel
 
-**National Anthem of Israel** — הַתִּקְוָה
+![Israel](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/KINPAuz9dD8/0.jpg)](https://www.youtube.com/watch?v=KINPAuz9dD8)
+
+**National Anthem of Israel** — *הַתִּקְוָה*
 
 | | |
 |---|---|
 | Duration | 1:14 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=KINPAuz9dD8) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/il/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/il/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

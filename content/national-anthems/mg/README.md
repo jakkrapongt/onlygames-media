@@ -1,4 +1,8 @@
-# Madagascar National Anthem
+# Madagascar
+
+![Madagascar](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/RsRCLoK1tcg/0.jpg)](https://www.youtube.com/watch?v=RsRCLoK1tcg)
 
 **National Anthem of Madagascar**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:02 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=RsRCLoK1tcg) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/mg/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/mg/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

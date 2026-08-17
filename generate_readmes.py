@@ -86,11 +86,27 @@ def main():
             locale = meta.get("locale", "")
             duration = format_duration(meta.get("duration", ""))
             license_ = meta.get("license", "Public Domain")
+            youtube = meta.get("youtube", "")
             url = f"{SITE_URL}/{item_path}/{meta['id']}/"
 
-            # Build info table rows from available fields
-            table_rows = [f"| Duration | {duration} |"] if duration else []
+            # Thumbnail + YouTube preview (if available)
+            hero = f"![{name}](thumbnail.jpg)"
+            if youtube:
+                hero += f"\n\n[![Watch on YouTube](https://img.youtube.com/vi/{youtube}/0.jpg)](https://www.youtube.com/watch?v={youtube})"
+
+            # Subtitle line
+            subtitle_parts = [f"**{title}**"]
+            if locale:
+                subtitle_parts.append(f"*{locale}*")
+            subtitle = " — ".join(subtitle_parts)
+
+            # Info table
+            table_rows = []
+            if duration:
+                table_rows.append(f"| Duration | {duration} |")
             table_rows.append(f"| License | {license_} |")
+            if youtube:
+                table_rows.append(f"| YouTube | [Watch](https://www.youtube.com/watch?v={youtube}) |")
             if meta.get("translations"):
                 langs = " · ".join(k.upper() for k in meta["translations"].keys())
                 table_rows.append(f"| Translations | {langs} |")
@@ -98,7 +114,9 @@ def main():
             lines = [
                 f"# {name}",
                 "",
-                f"**{title}**" + (f" — {locale}" if locale else ""),
+                hero,
+                "",
+                subtitle,
                 "",
                 "| | |",
                 "|---|---|",
@@ -106,7 +124,7 @@ def main():
                 "",
                 f"[🔗 Listen & Download]({url})",
                 "",
-                f"> Free to use for YouTube, school projects, video editing, and personal use.",
+                "> Free to use for YouTube, school projects, video editing, and personal use.",
             ]
 
             path = os.path.join(cat_dir, meta["id"], "README.md")

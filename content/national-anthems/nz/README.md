@@ -1,13 +1,18 @@
-# New Zealand National Anthem
+# New Zealand
 
-**National Anthem of New Zealand** — God Defend New Zealand / Aotearoa
+![New Zealand](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/T-gU8bKsJcA/0.jpg)](https://www.youtube.com/watch?v=T-gU8bKsJcA)
+
+**National Anthem of New Zealand** — *God Defend New Zealand / Aotearoa*
 
 | | |
 |---|---|
 | Duration | 1:03 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=T-gU8bKsJcA) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/nz/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/nz/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

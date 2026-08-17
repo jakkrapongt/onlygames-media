@@ -1,4 +1,8 @@
-# Costa Rica National Anthem
+# Costa Rica
+
+![Costa Rica](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/D5WNtKOL93U/0.jpg)](https://www.youtube.com/watch?v=D5WNtKOL93U)
 
 **National Anthem of Costa Rica**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:50 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=D5WNtKOL93U) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/cr/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/cr/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

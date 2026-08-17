@@ -1,13 +1,18 @@
-# North Korea National Anthem
+# North Korea
 
-**National Anthem of North Korea** — 애국가
+![North Korea](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/RH8yRCt72sg/0.jpg)](https://www.youtube.com/watch?v=RH8yRCt72sg)
+
+**National Anthem of North Korea** — *애국가*
 
 | | |
 |---|---|
 | Duration | 1:41 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=RH8yRCt72sg) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/kp/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/kp/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

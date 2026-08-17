@@ -1,13 +1,18 @@
-# Serbia National Anthem
+# Serbia
 
-**National Anthem of Serbia** — Боже правде
+![Serbia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/jo08HfjxV7c/0.jpg)](https://www.youtube.com/watch?v=jo08HfjxV7c)
+
+**National Anthem of Serbia** — *Боже правде*
 
 | | |
 |---|---|
 | Duration | 1:44 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=jo08HfjxV7c) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/rs/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/rs/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

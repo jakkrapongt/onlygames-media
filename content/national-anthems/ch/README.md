@@ -1,13 +1,18 @@
-# Switzerland National Anthem
+# Switzerland
 
-**National Anthem of Switzerland** — Schweizerpsalm / Cantique suisse / Salmo svizzero / Psalm svizzer
+![Switzerland](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/TTwCFDQEsrg/0.jpg)](https://www.youtube.com/watch?v=TTwCFDQEsrg)
+
+**National Anthem of Switzerland** — *Schweizerpsalm / Cantique suisse / Salmo svizzero / Psalm svizzer*
 
 | | |
 |---|---|
 | Duration | 1:11 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=TTwCFDQEsrg) |
+| Translations | TH · JA · ZH · RU · FR · ES · AR · EN |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ch/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ch/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

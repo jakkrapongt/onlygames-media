@@ -1,4 +1,8 @@
-# Trinidad and Tobago National Anthem
+# Trinidad and Tobago
+
+![Trinidad and Tobago](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/O0Q5LAOI0UY/0.jpg)](https://www.youtube.com/watch?v=O0Q5LAOI0UY)
 
 **National Anthem of Trinidad and Tobago**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:15 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=O0Q5LAOI0UY) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/tt/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/tt/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

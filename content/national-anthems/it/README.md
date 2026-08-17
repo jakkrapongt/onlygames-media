@@ -1,4 +1,8 @@
-# Italy National Anthem
+# Italy
+
+![Italy](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/6aDAjayEqNs/0.jpg)](https://www.youtube.com/watch?v=6aDAjayEqNs)
 
 **National Anthem of Italy**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:37 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=6aDAjayEqNs) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/it/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/it/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

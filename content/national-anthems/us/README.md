@@ -1,4 +1,8 @@
-# United States of America National Anthem
+# United States of America
+
+![United States of America](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/dCdjceXUkNE/0.jpg)](https://www.youtube.com/watch?v=dCdjceXUkNE)
 
 **National Anthem of United States of America**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:18 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=dCdjceXUkNE) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/us/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/us/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

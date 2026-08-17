@@ -1,13 +1,18 @@
-# Iraq National Anthem
+# Iraq
 
-**National Anthem of Iraq** — مَوْطِنِيْ
+![Iraq](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/_VgnTTZYbrc/0.jpg)](https://www.youtube.com/watch?v=_VgnTTZYbrc)
+
+**National Anthem of Iraq** — *مَوْطِنِيْ*
 
 | | |
 |---|---|
 | Duration | 1:45 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=_VgnTTZYbrc) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/iq/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/iq/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

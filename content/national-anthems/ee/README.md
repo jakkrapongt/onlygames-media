@@ -1,4 +1,8 @@
-# Estonia National Anthem
+# Estonia
+
+![Estonia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/Dl94B3JFtmk/0.jpg)](https://www.youtube.com/watch?v=Dl94B3JFtmk)
 
 **National Anthem of Estonia**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:32 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=Dl94B3JFtmk) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ee/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ee/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

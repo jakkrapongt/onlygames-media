@@ -1,4 +1,8 @@
-# Tanzania, United Republic of National Anthem
+# Tanzania, United Republic of
+
+![Tanzania, United Republic of](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/Xjea71y6aEw/0.jpg)](https://www.youtube.com/watch?v=Xjea71y6aEw)
 
 **National Anthem of Tanzania, United Republic of**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:52 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=Xjea71y6aEw) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/tz/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/tz/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

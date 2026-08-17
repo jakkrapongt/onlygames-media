@@ -1,13 +1,18 @@
-# Syrian Arab Republic National Anthem
+# Syrian Arab Republic
 
-**National Anthem of Syrian Arab Republic** — حُمَاةَ الدِّيَارِ
+![Syrian Arab Republic](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/NBvfr5cvTos/0.jpg)](https://www.youtube.com/watch?v=NBvfr5cvTos)
+
+**National Anthem of Syrian Arab Republic** — *حُمَاةَ الدِّيَارِ*
 
 | | |
 |---|---|
 | Duration | 1:06 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=NBvfr5cvTos) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/sy/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/sy/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

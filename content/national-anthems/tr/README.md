@@ -1,13 +1,18 @@
-# Türkiye National Anthem
+# Türkiye
 
-**National Anthem of Türkiye** — İstiklal Marşı
+![Türkiye](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/9dKP0XkvOkw/0.jpg)](https://www.youtube.com/watch?v=9dKP0XkvOkw)
+
+**National Anthem of Türkiye** — *İstiklal Marşı*
 
 | | |
 |---|---|
 | Duration | 1:16 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=9dKP0XkvOkw) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/tr/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/tr/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

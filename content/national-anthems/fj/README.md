@@ -1,4 +1,8 @@
-# Fiji National Anthem
+# Fiji
+
+![Fiji](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/krVJG7LbFw8/0.jpg)](https://www.youtube.com/watch?v=krVJG7LbFw8)
 
 **National Anthem of Fiji**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:26 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=krVJG7LbFw8) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/fj/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/fj/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

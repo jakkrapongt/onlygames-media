@@ -1,4 +1,8 @@
-# Latvia National Anthem
+# Latvia
+
+![Latvia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/N-0v4_mqMLc/0.jpg)](https://www.youtube.com/watch?v=N-0v4_mqMLc)
 
 **National Anthem of Latvia**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:45 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=N-0v4_mqMLc) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/lv/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/lv/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

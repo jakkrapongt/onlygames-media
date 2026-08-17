@@ -1,13 +1,18 @@
-# Bolivia, Plurinational State of National Anthem
+# Bolivia, Plurinational State of
 
-**National Anthem of Bolivia, Plurinational State of** — Canción Patriótica
+![Bolivia, Plurinational State of](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/-OaMrb4k9YE/0.jpg)](https://www.youtube.com/watch?v=-OaMrb4k9YE)
+
+**National Anthem of Bolivia, Plurinational State of** — *Canción Patriótica*
 
 | | |
 |---|---|
 | Duration | 1:41 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=-OaMrb4k9YE) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/bo/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/bo/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

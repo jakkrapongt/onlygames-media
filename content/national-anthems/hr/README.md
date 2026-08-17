@@ -1,4 +1,8 @@
-# Croatia National Anthem
+# Croatia
+
+![Croatia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/rwtR8N0oPx0/0.jpg)](https://www.youtube.com/watch?v=rwtR8N0oPx0)
 
 **National Anthem of Croatia**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:59 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=rwtR8N0oPx0) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/hr/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/hr/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

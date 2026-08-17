@@ -1,4 +1,8 @@
-# Denmark National Anthem
+# Denmark
+
+![Denmark](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/TYeWfmQjeBE/0.jpg)](https://www.youtube.com/watch?v=TYeWfmQjeBE)
 
 **National Anthem of Denmark**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:19 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=TYeWfmQjeBE) |
+| Translations | TH · JA · ZH · RU · FR · ES · AR · EN |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/dk/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/dk/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

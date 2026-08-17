@@ -1,13 +1,18 @@
-# Austria National Anthem
+# Austria
 
-**National Anthem of Austria** — Bundeshymne der Republik Österreich
+![Austria](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/KjTERVlFuNc/0.jpg)](https://www.youtube.com/watch?v=KjTERVlFuNc)
+
+**National Anthem of Austria** — *Bundeshymne der Republik Österreich*
 
 | | |
 |---|---|
 | Duration | 1:29 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=KjTERVlFuNc) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/at/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/at/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

@@ -1,4 +1,8 @@
-# Norway National Anthem
+# Norway
+
+![Norway](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/RhvRUI-PPh0/0.jpg)](https://www.youtube.com/watch?v=RhvRUI-PPh0)
 
 **National Anthem of Norway**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:02 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=RhvRUI-PPh0) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/no/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/no/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

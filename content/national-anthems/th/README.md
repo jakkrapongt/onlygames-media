@@ -1,13 +1,18 @@
-# Thailand National Anthem
+# Thailand
 
-**National Anthem of Thailand** — เพลงชาติไทย
+![Thailand](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/7C9ozwdiy6Q/0.jpg)](https://www.youtube.com/watch?v=7C9ozwdiy6Q)
+
+**National Anthem of Thailand** — *เพลงชาติไทย*
 
 | | |
 |---|---|
 | Duration | 0:44 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=7C9ozwdiy6Q) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/th/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/th/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

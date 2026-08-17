@@ -1,4 +1,8 @@
-# Congo National Anthem
+# Congo
+
+![Congo](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/XldqKdZXhtU/0.jpg)](https://www.youtube.com/watch?v=XldqKdZXhtU)
 
 **National Anthem of Congo**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:15 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=XldqKdZXhtU) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/cg/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/cg/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

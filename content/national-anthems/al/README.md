@@ -1,13 +1,18 @@
-# Albania National Anthem
+# Albania
 
-**National Anthem of Albania** — Himni i Flamurit
+![Albania](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/5VritDvJrsg/0.jpg)](https://www.youtube.com/watch?v=5VritDvJrsg)
+
+**National Anthem of Albania** — *Himni i Flamurit*
 
 | | |
 |---|---|
 | Duration | 1:06 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=5VritDvJrsg) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/al/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/al/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

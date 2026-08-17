@@ -1,13 +1,18 @@
-# Tajikistan National Anthem
+# Tajikistan
 
-**National Anthem of Tajikistan** — Суруди Миллӣ
+![Tajikistan](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/FtdDeMp740U/0.jpg)](https://www.youtube.com/watch?v=FtdDeMp740U)
+
+**National Anthem of Tajikistan** — *Суруди Миллӣ*
 
 | | |
 |---|---|
 | Duration | 1:50 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=FtdDeMp740U) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/tj/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/tj/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

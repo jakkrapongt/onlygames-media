@@ -1,4 +1,8 @@
-# Botswana National Anthem
+# Botswana
+
+![Botswana](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/i2zsbf2LENg/0.jpg)](https://www.youtube.com/watch?v=i2zsbf2LENg)
 
 **National Anthem of Botswana**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:57 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=i2zsbf2LENg) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/bw/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/bw/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

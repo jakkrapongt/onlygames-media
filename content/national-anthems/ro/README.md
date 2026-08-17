@@ -1,4 +1,8 @@
-# Romania National Anthem
+# Romania
+
+![Romania](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/nmoTfVbSMAY/0.jpg)](https://www.youtube.com/watch?v=nmoTfVbSMAY)
 
 **National Anthem of Romania**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 2:19 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=nmoTfVbSMAY) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ro/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ro/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

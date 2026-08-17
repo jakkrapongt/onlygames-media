@@ -1,13 +1,18 @@
-# Burkina Faso National Anthem
+# Burkina Faso
 
-**National Anthem of Burkina Faso** — Le Ditanye
+![Burkina Faso](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/l-gGGKA-yMg/0.jpg)](https://www.youtube.com/watch?v=l-gGGKA-yMg)
+
+**National Anthem of Burkina Faso** — *Le Ditanye*
 
 | | |
 |---|---|
 | Duration | 1:47 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=l-gGGKA-yMg) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/bf/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/bf/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

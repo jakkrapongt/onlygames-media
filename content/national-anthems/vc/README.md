@@ -1,4 +1,8 @@
-# Saint Vincent and the Grenadines National Anthem
+# Saint Vincent and the Grenadines
+
+![Saint Vincent and the Grenadines](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/y6VPnPcwZrQ/0.jpg)](https://www.youtube.com/watch?v=y6VPnPcwZrQ)
 
 **National Anthem of Saint Vincent and the Grenadines**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:51 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=y6VPnPcwZrQ) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/vc/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/vc/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

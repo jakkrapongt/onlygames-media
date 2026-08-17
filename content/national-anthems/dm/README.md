@@ -1,4 +1,8 @@
-# Dominica National Anthem
+# Dominica
+
+![Dominica](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/JVeyv5lILGc/0.jpg)](https://www.youtube.com/watch?v=JVeyv5lILGc)
 
 **National Anthem of Dominica**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:49 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=JVeyv5lILGc) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/dm/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/dm/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

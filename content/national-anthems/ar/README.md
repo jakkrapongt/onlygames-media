@@ -1,4 +1,8 @@
-# Argentina National Anthem
+# Argentina
+
+![Argentina](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/oj2KAhrmkdU/0.jpg)](https://www.youtube.com/watch?v=oj2KAhrmkdU)
 
 **National Anthem of Argentina**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 3:33 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=oj2KAhrmkdU) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ar/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ar/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

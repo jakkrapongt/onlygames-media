@@ -1,4 +1,8 @@
-# Malta National Anthem
+# Malta
+
+![Malta](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/mDaycXdrWfE/0.jpg)](https://www.youtube.com/watch?v=mDaycXdrWfE)
 
 **National Anthem of Malta**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 0:49 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=mDaycXdrWfE) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/mt/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/mt/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

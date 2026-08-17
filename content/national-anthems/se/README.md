@@ -1,4 +1,8 @@
-# Sweden National Anthem
+# Sweden
+
+![Sweden](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/zLR3uLvaqhM/0.jpg)](https://www.youtube.com/watch?v=zLR3uLvaqhM)
 
 **National Anthem of Sweden**
 
@@ -6,8 +10,9 @@
 |---|---|
 | Duration | 1:28 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=zLR3uLvaqhM) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/se/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/se/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

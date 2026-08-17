@@ -1,13 +1,17 @@
-# Kosovo National Anthem
+# Kosovo
 
-**National Anthem of Kosovo** — Himni i Republikës së Kosovës
+![Kosovo](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/zTJ3iDMYfnc/0.jpg)](https://www.youtube.com/watch?v=zTJ3iDMYfnc)
+
+**National Anthem of Kosovo** — *Himni i Republikës së Kosovës*
 
 | | |
 |---|---|
 | Duration | 0:57 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=zTJ3iDMYfnc) |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/xk/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/xk/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

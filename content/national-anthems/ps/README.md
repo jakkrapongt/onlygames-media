@@ -1,13 +1,18 @@
-# Palestine National Anthem
+# Palestine
 
-**National Anthem of Palestine** — فدائي
+![Palestine](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/jgU2aTA_5cM/0.jpg)](https://www.youtube.com/watch?v=jgU2aTA_5cM)
+
+**National Anthem of Palestine** — *فدائي*
 
 | | |
 |---|---|
 | Duration | 0:58 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=jgU2aTA_5cM) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ps/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ps/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

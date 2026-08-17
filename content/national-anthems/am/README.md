@@ -1,13 +1,18 @@
-# Armenia National Anthem
+# Armenia
 
-**National Anthem of Armenia** — Մեր Հայրենիք
+![Armenia](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/LpiPYtQ78YY/0.jpg)](https://www.youtube.com/watch?v=LpiPYtQ78YY)
+
+**National Anthem of Armenia** — *Մեր Հայրենիք*
 
 | | |
 |---|---|
 | Duration | 0:28 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=LpiPYtQ78YY) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/am/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/am/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

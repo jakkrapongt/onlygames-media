@@ -1,13 +1,18 @@
-# Libya National Anthem
+# Libya
 
-**National Anthem of Libya** — ليبيا، ليبيا، ليبيا
+![Libya](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/nSYLB4aPUPc/0.jpg)](https://www.youtube.com/watch?v=nSYLB4aPUPc)
+
+**National Anthem of Libya** — *ليبيا، ليبيا، ليبيا*
 
 | | |
 |---|---|
 | Duration | 1:08 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=nSYLB4aPUPc) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/ly/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/ly/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.

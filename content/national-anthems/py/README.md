@@ -1,13 +1,18 @@
-# Paraguay National Anthem
+# Paraguay
 
-**National Anthem of Paraguay** — Paraguayos, República o muerte!
+![Paraguay](thumbnail.jpg)
+
+[![Watch on YouTube](https://img.youtube.com/vi/_6jexCbOhbQ/0.jpg)](https://www.youtube.com/watch?v=_6jexCbOhbQ)
+
+**National Anthem of Paraguay** — *Paraguayos, República o muerte!*
 
 | | |
 |---|---|
 | Duration | 3:11 |
 | License | Public Domain |
-| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+| YouTube | [Watch](https://www.youtube.com/watch?v=_6jexCbOhbQ) |
+| Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/py/)
+[🔗 Listen & Download](https://onlygames.me/national-anthems/py/)
 
-> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
+> Free to use for YouTube, school projects, video editing, and personal use.
