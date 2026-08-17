@@ -3,3 +3,6 @@ content/*/*/meta.json
 
 # draft folder is staging only
 draft/
+
+# local ideas and notes
+ideas/
