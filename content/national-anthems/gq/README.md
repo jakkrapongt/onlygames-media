@@ -2,6 +2,8 @@
 
 ![Equatorial Guinea](thumbnail.jpg)
 
+## Watch
+
 [![Watch on YouTube](https://img.youtube.com/vi/K1Rirn5e_Js/0.jpg)](https://www.youtube.com/watch?v=K1Rirn5e_Js)
 
 **National Anthem of Equatorial Guinea**

@@ -2,6 +2,8 @@
 
 ![Sao Tome and Principe](thumbnail.jpg)
 
+## Watch
+
 [![Watch on YouTube](https://img.youtube.com/vi/EoAo8brjV1w/0.jpg)](https://www.youtube.com/watch?v=EoAo8brjV1w)
 
 **National Anthem of Sao Tome and Principe**

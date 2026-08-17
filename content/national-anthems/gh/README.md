@@ -2,6 +2,8 @@
 
 ![Ghana](thumbnail.jpg)
 
+## Watch
+
 [![Watch on YouTube](https://img.youtube.com/vi/OdWMtFADsz8/0.jpg)](https://www.youtube.com/watch?v=OdWMtFADsz8)
 
 **National Anthem of Ghana**

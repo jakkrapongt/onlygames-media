@@ -2,6 +2,8 @@
 
 ![Senegal](thumbnail.jpg)
 
+## Watch
+
 [![Watch on YouTube](https://img.youtube.com/vi/DxxehnaQffE/0.jpg)](https://www.youtube.com/watch?v=DxxehnaQffE)
 
 **National Anthem of Senegal** — *Pincez Tous vos Koras, Frappez les Balafons*

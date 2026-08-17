@@ -92,7 +92,7 @@ def main():
             # Thumbnail + YouTube preview (if available)
             hero = f"![{name}](thumbnail.jpg)"
             if youtube:
-                hero += f"\n\n[![Watch on YouTube](https://img.youtube.com/vi/{youtube}/0.jpg)](https://www.youtube.com/watch?v={youtube})"
+                hero += f"\n\n## Watch\n\n[![Watch on YouTube](https://img.youtube.com/vi/{youtube}/0.jpg)](https://www.youtube.com/watch?v={youtube})"
 
             # Subtitle line
             subtitle_parts = [f"**{title}**"]
