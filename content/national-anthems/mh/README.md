@@ -1,0 +1,13 @@
+# Marshall Islands National Anthem
+
+**National Anthem of Marshall Islands** — Indeeo M̧ajeļ
+
+| | |
+|---|---|
+| Duration | 2:18 |
+| License | Public Domain |
+| Languages | Original · Romanization · EN · TH · JA · ZH · RU · FR · ES · AR |
+
+[🎵 Listen & Download Free MP3](https://onlygames.me/national-anthems/mh/)
+
+> Public domain recording. Free for YouTube, school projects, video editing, and personal use.
