@@ -1,0 +1,52 @@
+{
+  "id": "flags-png",
+  "title": "Country Flags (PNG)",
+  "emoji": "🏳️",
+  "color": "#16a34a",
+  "template": "flags",
+  "itemPath": "/flags-png/",
+  "description": "Free country flag images in PNG format — 4 aspect ratios, high resolution",
+  "requiredFiles": [
+    "meta.json",
+    "flag-4x3.png"
+  ],
+  "metaSchema": {
+    "id": "ISO 3166-1 alpha-2 country code (lowercase)",
+    "title": "e.g. 'Flag of Thailand'",
+    "country": "Full country name in English",
+    "formats": "Available files for download",
+    "license": "License",
+    "source": "Source attribution",
+    "status": "'ready' when approved"
+  },
+  "metaExample": {
+    "id": "th",
+    "title": "Flag of Thailand",
+    "country": "Thailand",
+    "formats": {
+      "4x3": {
+        "file": "flag-4x3.png",
+        "width": 1280,
+        "height": 960
+      },
+      "3x2": {
+        "file": "flag-3x2.png",
+        "width": 1280,
+        "height": 853
+      },
+      "16x9": {
+        "file": "flag-16x9.png",
+        "width": 1280,
+        "height": 720
+      },
+      "1x1": {
+        "file": "flag-1x1.png",
+        "width": 1024,
+        "height": 1024
+      }
+    },
+    "license": "Public Domain",
+    "source": "flag-icons (lipis/flag-icons)",
+    "status": "ready"
+  }
+}
