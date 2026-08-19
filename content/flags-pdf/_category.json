@@ -1,0 +1,33 @@
+{
+  "id": "flags-pdf",
+  "title": "Country Flags (PDF)",
+  "emoji": "🏳️",
+  "color": "#dc2626",
+  "template": "flags",
+  "itemPath": "/flags-pdf/",
+  "description": "Free printable country flag PDF — A4 landscape format",
+  "requiredFiles": [
+    "meta.json",
+    "flag.pdf"
+  ],
+  "metaSchema": {
+    "id": "ISO 3166-1 alpha-2 country code (lowercase)",
+    "title": "e.g. 'Flag of Thailand'",
+    "country": "Full country name in English",
+    "formats": "Available files for download",
+    "license": "License",
+    "source": "Source attribution",
+    "status": "'ready' when approved"
+  },
+  "metaExample": {
+    "id": "th",
+    "title": "Flag of Thailand",
+    "country": "Thailand",
+    "formats": {
+      "pdf": "flag.pdf"
+    },
+    "license": "Public Domain",
+    "source": "flag-icons (lipis/flag-icons)",
+    "status": "ready"
+  }
+}
