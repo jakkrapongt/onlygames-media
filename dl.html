@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Downloading...</title>
+<style>
+body{display:flex;align-items:center;justify-content:center;height:100vh;margin:0;background:#1a1a2e;color:#fff;font-family:sans-serif}
+</style>
+</head>
+<body>
+<p>Starting download...</p>
+<script>
+(function(){
+  var p=new URLSearchParams(location.search);
+  var file=p.get('file'), name=p.get('name'), back=p.get('back');
+  if(!file){document.querySelector('p').textContent='Missing file parameter.';return}
+  var a=document.createElement('a');
+  a.href='/'+file;
+  a.download=name||file.split('/').pop();
+  a.click();
+  if(back) setTimeout(function(){location.href=back},1500);
+})();
+</script>
+</body>
+</html>
