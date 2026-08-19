@@ -1,0 +1,36 @@
+{
+  "id": "flags-svg",
+  "title": "Country Flags (SVG)",
+  "emoji": "🏳️",
+  "color": "#2563eb",
+  "template": "flags",
+  "itemPath": "/flags-svg/",
+  "description": "Free country flag vector images in SVG format — 4 aspect ratios",
+  "requiredFiles": [
+    "meta.json",
+    "flag-4x3.svg"
+  ],
+  "metaSchema": {
+    "id": "ISO 3166-1 alpha-2 country code (lowercase)",
+    "title": "e.g. 'Flag of Thailand'",
+    "country": "Full country name in English",
+    "formats": "Available files for download",
+    "license": "License",
+    "source": "Source attribution",
+    "status": "'ready' when approved"
+  },
+  "metaExample": {
+    "id": "th",
+    "title": "Flag of Thailand",
+    "country": "Thailand",
+    "formats": {
+      "4x3": "flag-4x3.svg",
+      "1x1": "flag-1x1.svg",
+      "3x2": "flag-3x2.svg",
+      "16x9": "flag-16x9.svg"
+    },
+    "license": "Public Domain",
+    "source": "flag-icons (lipis/flag-icons)",
+    "status": "ready"
+  }
+}

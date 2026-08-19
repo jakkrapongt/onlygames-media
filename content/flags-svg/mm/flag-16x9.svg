@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 853 480">
+<g transform="translate(106 0)">
+
+  <path fill="#fecb00" d="M-106 0h853v480H-106z"/>
+  <path fill="#34b233" d="M-106 160h853v320H-106z"/>
+  <path fill="#ea2839" d="M-106 320h853v160H-106z"/>
+  <g transform="translate(320 256.9)scale(176.87999)">
+    <path id="mm-a" fill="#fff" d="m0-1 .3 1h-.6z"/>
+    <use xlink:href="#mm-a" width="100%" height="100%" transform="rotate(-144)"/>
+    <use xlink:href="#mm-a" width="100%" height="100%" transform="rotate(-72)"/>
+    <use xlink:href="#mm-a" width="100%" height="100%" transform="rotate(72)"/>
+    <use xlink:href="#mm-a" width="100%" height="100%" transform="rotate(144)"/>
+  </g>
+
+</g>
+</svg>

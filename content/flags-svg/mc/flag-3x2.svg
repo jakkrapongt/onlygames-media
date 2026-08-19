@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480">
+<g transform="scale(1.125000 1)">
+
+  <g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#f31830" d="M0 0h640v240H0z"/>
+    <path fill="#fff" d="M0 240h640v240H0z"/>
+  </g>
+
+</g>
+</svg>
