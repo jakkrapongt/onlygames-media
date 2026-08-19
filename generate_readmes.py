@@ -110,6 +110,19 @@ def main():
             if meta.get("translations"):
                 langs = " · ".join(k.upper() for k in meta["translations"].keys())
                 table_rows.append(f"| Translations | {langs} |")
+            if meta.get("formats"):
+                fmts = meta["formats"]
+                fmt_labels = []
+                for ratio, val in fmts.items():
+                    if isinstance(val, dict):
+                        fmt_labels.append(f'{ratio} ({val.get("width", "")}×{val.get("height", "")})')
+                    else:
+                        fmt_labels.append(ratio)
+                table_rows.append(f"| Formats | {' · '.join(fmt_labels)} |")
+
+            # CTA text based on category type
+            has_audio = bool(meta.get("lyrics") or meta.get("duration"))
+            cta = "🎵 Listen & Download" if has_audio else "🔗 View & Download"
 
             lines = [
                 f"# {name}",
@@ -122,7 +135,7 @@ def main():
                 "|---|---|",
             ] + table_rows + [
                 "",
-                f"[🔗 Listen & Download]({url})",
+                f"[{cta}]({url})",
                 "",
                 "> Free to use for YouTube, school projects, video editing, and personal use.",
             ]

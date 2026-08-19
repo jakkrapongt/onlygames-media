@@ -14,6 +14,6 @@
 | License | Public Domain |
 | YouTube | [Watch](https://www.youtube.com/watch?v=zTJ3iDMYfnc) |
 
-[🔗 Listen & Download](https://onlygames.me/national-anthems/xk/)
+[🎵 Listen & Download](https://onlygames.me/national-anthems/xk/)
 
 > Free to use for YouTube, school projects, video editing, and personal use.

@@ -15,6 +15,6 @@
 | YouTube | [Watch](https://www.youtube.com/watch?v=Xjea71y6aEw) |
 | Translations | EN · TH · JA · ZH · RU · FR · ES · AR |
 
-[🔗 Listen & Download](https://onlygames.me/national-anthems/tz/)
+[🎵 Listen & Download](https://onlygames.me/national-anthems/tz/)
 
 > Free to use for YouTube, school projects, video editing, and personal use.
