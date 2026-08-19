@@ -166,6 +166,31 @@ def cleanup_empty_dirs():
         if os.path.isdir(DRAFT_DIR) and not os.listdir(DRAFT_DIR):
             os.rmdir(DRAFT_DIR)
 
+def build_index_dat():
+    """Build index.dat per category — base64-encoded JSON with all items' metadata."""
+    manifest = load_manifest()
+    for cat in manifest["categories"]:
+        cat_id = cat["id"]
+        cat_dir = os.path.join(CONTENT_DIR, cat_id)
+        index = {}
+        for item_id in cat["items"]:
+            dat_path = os.path.join(cat_dir, item_id, "meta.dat")
+            if not os.path.isfile(dat_path):
+                continue
+            try:
+                with open(dat_path, "rb") as f:
+                    meta = json.loads(base64.b64decode(f.read()))
+                index[item_id] = meta
+            except Exception:
+                pass
+        # Write as base64-encoded JSON
+        raw = json.dumps(index, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        dat_path = os.path.join(cat_dir, "index.dat")
+        with open(dat_path, "wb") as f:
+            f.write(base64.b64encode(raw))
+        print(f"  Built index.dat for {cat_id} ({len(index)} items)")
+
+
 def main():
     # Specific item or all drafts?
     if len(sys.argv) > 1:
@@ -214,6 +239,11 @@ def main():
     cleanup_empty_dirs()
 
     print(f"\nPromoted: {promoted}, Failed: {failed}")
+
+    if promoted > 0:
+        print()
+        build_index_dat()
+
     sys.exit(1 if failed > 0 else 0)
 
 if __name__ == "__main__":
