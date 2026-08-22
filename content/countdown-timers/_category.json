@@ -1,0 +1,50 @@
+{
+  "id": "countdown-timers",
+  "title": "Countdown Timers",
+  "emoji": "⏱️",
+  "color": "#1a1a2e",
+  "template": "countdown-timers",
+  "itemPath": "/countdown-timers/",
+  "description": "Free countdown timer videos for presentations, workouts, cooking, exams, and games. Multiple styles and durations. Available in MP4 and GIF.",
+  "requiredFiles": ["meta.json", "thumbnail.jpg", "og-image.jpg", "video.mp4"],
+  "metaSchema": {
+    "id": "theme-name_from-to (e.g. 'minimal-dark-landscape_10-0')",
+    "title": "Human readable title (e.g. '10 Seconds Countdown Timer | Black Screen')",
+    "theme": "Theme name from config (e.g. 'minimal-dark-landscape')",
+    "themeLabel": "Display name of theme (e.g. 'Black Screen')",
+    "from": "Start number (integer)",
+    "to": "End number (integer)",
+    "duration": "Total video duration in seconds (integer)",
+    "orientation": "Video orientation: 'landscape' or 'portrait'",
+    "width": "Video width in pixels",
+    "height": "Video height in pixels",
+    "hasBeep": "Whether video has beep sound (boolean)",
+    "hasVoice": "Whether video has voice countdown (boolean)",
+    "youtube": "YouTube video ID (optional)",
+    "files": "Array of downloadable files [{name, type, label}]",
+    "tags": "Array of search tags"
+  },
+  "metaExample": {
+    "id": "minimal-dark-landscape_10-0",
+    "title": "10 Seconds Countdown Timer | Black Screen",
+    "theme": "minimal-dark-landscape",
+    "themeLabel": "Black Screen",
+    "from": 10,
+    "to": 0,
+    "duration": 12,
+    "orientation": "landscape",
+    "width": 1920,
+    "height": 1080,
+    "hasBeep": true,
+    "hasVoice": false,
+    "youtube": "",
+    "files": [
+      {"name": "video.mp4", "type": "mp4", "label": "MP4 Video (1920×1080)"},
+      {"name": "square.gif", "type": "gif", "label": "Square GIF"},
+      {"name": "circle.gif", "type": "gif", "label": "Circle GIF"},
+      {"name": "circle-transparent.gif", "type": "gif", "label": "Circle Transparent GIF"},
+      {"name": "outline.gif", "type": "gif", "label": "Outline Transparent GIF"}
+    ],
+    "tags": ["countdown", "timer", "10 seconds", "black screen", "countdown timer"]
+  }
+}
