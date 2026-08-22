@@ -774,24 +774,34 @@
       "items": [
         "10-seconds-countdown-black-screen",
         "10-seconds-countdown-green-screen",
+        "10-seconds-countdown-white-screen",
         "15-seconds-countdown-black-screen",
         "15-seconds-countdown-green-screen",
+        "15-seconds-countdown-white-screen",
         "20-seconds-countdown-black-screen",
         "20-seconds-countdown-green-screen",
+        "20-seconds-countdown-white-screen",
         "3-seconds-countdown-black-screen",
         "3-seconds-countdown-green-screen",
+        "3-seconds-countdown-white-screen",
         "30-seconds-countdown-black-screen",
         "30-seconds-countdown-green-screen",
+        "30-seconds-countdown-white-screen",
         "40-seconds-countdown-black-screen",
         "40-seconds-countdown-green-screen",
+        "40-seconds-countdown-white-screen",
         "45-seconds-countdown-black-screen",
         "45-seconds-countdown-green-screen",
+        "45-seconds-countdown-white-screen",
         "5-seconds-countdown-black-screen",
         "5-seconds-countdown-green-screen",
+        "5-seconds-countdown-white-screen",
         "50-seconds-countdown-black-screen",
         "50-seconds-countdown-green-screen",
+        "50-seconds-countdown-white-screen",
         "60-seconds-countdown-black-screen",
-        "60-seconds-countdown-green-screen"
+        "60-seconds-countdown-green-screen",
+        "60-seconds-countdown-white-screen"
       ]
     }
   ]
